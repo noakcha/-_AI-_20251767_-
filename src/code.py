@@ -80,5 +80,5 @@ def subway_alighting_notification(user_id, current_station, current_passengers, 
     time.sleep(1)
     subway_alighting_notification("User C", current_station_2, current_passengers_2, user_c_data)
 
-    print("\n--- 시뮬레이션 종료 ---")
+    print("\n-- 시뮬레이션 종료 --")
 
